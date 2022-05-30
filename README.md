@@ -1,2 +1,2 @@
-# n17n
-Numeronym Collision - aka n17n
+# horseradish
+Python package for exploring wordspaces to fine unique (or non-unique) numeronyms.
