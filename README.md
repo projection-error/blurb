@@ -1,2 +1,2 @@
-# horseradish
-Python package for exploring wordspaces to fine unique (or non-unique) numeronyms.
+# blurb (aka b3b)
+Python package for exploring numeronymic properties of wordsets.
